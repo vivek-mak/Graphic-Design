@@ -1,4 +1,8 @@
 # Graphic-Design
+
+### Logo Designs
+ ![This is an image](https://github.com/vivek-mak/Graphic-Design/blob/main/logo-1.jpg)
+ ![This is an image](https://github.com/vivek-mak/Graphic-Design/blob/main/logo-2.jpg)
  
 
 ### Brochure Designs
