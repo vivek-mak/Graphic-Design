@@ -4,6 +4,11 @@
 ---
  ![This is an image](https://github.com/vivek-mak/Graphic-Design/blob/main/logo-1.jpg)
  ![This is an image](https://github.com/vivek-mak/Graphic-Design/blob/main/logo-2.jpg)
+ ![This is an image](https://github.com/vivek-mak/Graphic-Design/blob/main/logo-3.jpg)
+ ![This is an image](https://github.com/vivek-mak/Graphic-Design/blob/main/logo-4.jpg)
+ ![This is an image](https://github.com/vivek-mak/Graphic-Design/blob/main/logo-5.jpg)
+ ![This is an image](https://github.com/vivek-mak/Graphic-Design/blob/main/logo-6.jpg)
+ ![This is an image](https://github.com/vivek-mak/Graphic-Design/blob/main/logo-7.jpg)
 
 
 ### Social Media Poster
@@ -15,6 +20,7 @@
 ### Flyers Designs
 ---
  ![This is an image](https://github.com/vivek-mak/Graphic-Design/blob/main/flyers-1.jpg)
+ ![This is an image](https://github.com/vivek-mak/Graphic-Design/blob/main/flyers-2.jpg)
  
 
 ### Brochure Designs
